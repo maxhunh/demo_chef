@@ -1,0 +1,1 @@
+package "git-core" # apt-get install git-core
